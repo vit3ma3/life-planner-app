@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0",
-  "versionCode": 2,
+  "versionName": "1.1",
+  "versionCode": 3,
   "apkUrl": "https://github.com/vit3ma3/life-planner-app/releases/latest/download/life-planner.apk",
-  "notes": "Первая версия: учёба, дела с напоминаниями, цели",
+  "notes": "Расписание МГТУ: загрузка по ссылке и разбор",
   "date": "2026-11-15"
 }
